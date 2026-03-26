@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Minahil Nadeem Portfolio"
+author: "Minahil Nadeem"
+description: "Computer Engineering student showcasing my projects and learning journey in programming and databases."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,8 +22,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:mahilicious.2@gmail.com"}
+  - {title: Github, icon: github, url: "https://minahil-nadeem.github.io"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
