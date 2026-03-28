@@ -1,6 +1,7 @@
 title: "Minahil Nadeem Portfolio"
 author: "Minahil Nadeem"
 description: "Computer Engineering student showcasing my projects and learning journey in programming and databases."
+theme: minima
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
