@@ -1,6 +1,7 @@
 ---
 title: "My Computer Engineering Journey – First Semester"
 layout: post
+date: 2026-03-29
 ---
 
 # 🖥️ My Computer Engineering Journey – First Semester
